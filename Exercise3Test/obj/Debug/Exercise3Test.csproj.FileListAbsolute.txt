@@ -1,0 +1,61 @@
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Exercise3Test.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Exercise3Test.pdb
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Exercise3.exe
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Exercise3.pdb
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Exercise3.exe.config
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csprojAssemblyReference.cache
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csproj.CoreCompileInputs.cache
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csproj.CopyComplete
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.dll
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Exercise3Test.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Exercise3Test.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Exercise3.exe.config
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csproj.CopyComplete
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\FluentAssertions.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\System.ValueTuple.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\FluentAssertions.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\FluentAssertions.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3Test\bin\Debug\System.ValueTuple.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Exercise3Test.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Exercise3Test.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\FluentAssertions.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\System.ValueTuple.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Exercise3.exe.config
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\FluentAssertions.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\FluentAssertions.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\bin\Debug\System.ValueTuple.xml
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.csproj.CopyComplete
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.dll
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3Test\obj\Debug\Exercise3Test.pdb

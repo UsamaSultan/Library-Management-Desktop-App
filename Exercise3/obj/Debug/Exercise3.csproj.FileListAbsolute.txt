@@ -1,0 +1,40 @@
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.Form1.resources
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.cache
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+E:\Projects\Maverik A\c# exercises\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.Form1.resources
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Exercise3 (1)\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.Form1.resources
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Exercise3 (1)\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.Form1.resources
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.cache
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\nu\Downloads\Assignmet\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
